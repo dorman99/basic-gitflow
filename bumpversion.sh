@@ -8,12 +8,12 @@ fi
 
 echo "Generate release tag for: $1...";
 
-# git checkout -b release/$version
-# git tag $version
+git checkout -b release/$version
+git tag $version
 git-chglog -o CHANGELOG.md
-# git commit -m "release: $version"
-# git push origin release/$version
-# git push origin --tag
+git commit -m "release: $version"
+git push origin release/$version
+git push origin --tag
 
 animate_loading() {
   local i=0
