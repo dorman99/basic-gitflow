@@ -10,7 +10,7 @@ echo "Generate release tag for: $1...";
 
 git checkout -b release/$version
 git tag $version
-git-chlog $version
+git-chglog $version
 git commit -m "release: $version"
 git push origin release/$version
 git push origin --tag
