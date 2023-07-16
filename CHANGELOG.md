@@ -2,6 +2,10 @@
 <a name="1.2.1"></a>
 ## [1.2.1](https://github.com/dorman99/basic-gitflow/compare/1.2.0...1.2.1) (2023-07-16)
 
+### Bug Fixes
+
+* **RI-101:** add add commit
+
 
 <a name="1.2.0"></a>
 ## [1.2.0](https://github.com/dorman99/basic-gitflow/compare/1.1.1...1.2.0) (2023-07-16)
@@ -14,9 +18,18 @@
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/dorman99/basic-gitflow/compare/1.1.0...1.1.1) (2023-07-15)
 
+### Bug Fixes
+
+* again bumpversion
+* other bumversion
+
 
 <a name="1.1.0"></a>
 ## [1.1.0](https://github.com/dorman99/basic-gitflow/compare/1.0.7...1.1.0) (2023-07-15)
+
+### Bug Fixes
+
+* bumpversion
 
 
 <a name="1.0.7"></a>
@@ -25,6 +38,10 @@
 
 <a name="1.0.6"></a>
 ## [1.0.6](https://github.com/dorman99/basic-gitflow/compare/1.0.5...1.0.6) (2023-07-15)
+
+### Bug Fixes
+
+* readme
 
 
 <a name="1.0.5"></a>
@@ -41,6 +58,10 @@
 
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/dorman99/basic-gitflow/compare/1.0.2...1.0.3) (2023-07-15)
+
+### Bug Fixes
+
+* bumpversion
 
 
 <a name="1.0.2"></a>
