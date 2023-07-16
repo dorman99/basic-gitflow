@@ -8,11 +8,13 @@ options:
     filters:
       Type:
         - feat
-        - hotfix
+        - fix
+    #     - perf
+    #     - refactor
   commit_groups:
     title_maps:
       feat: Features
-      hotfix: Hot Fixes
+      fix: Bug Fixes
     #   perf: Performance Improvements
     #   refactor: Code Refactoring
   header:
