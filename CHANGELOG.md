@@ -1,4 +1,8 @@
 
+<a name="1.2.1"></a>
+## [1.2.1](https://github.com/dorman99/basic-gitflow/compare/1.2.0...1.2.1) (2023-07-16)
+
+
 <a name="1.2.0"></a>
 ## [1.2.0](https://github.com/dorman99/basic-gitflow/compare/1.1.1...1.2.0) (2023-07-16)
 
