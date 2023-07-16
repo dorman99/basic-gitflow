@@ -5,16 +5,16 @@ info:
   repository_url: https://github.com/dorman99/basic-gitflow
 options:
   commits:
-    # filters:
-    #   Type:
-    #     - feat
-    #     - fix
+    filters:
+      Type:
+        - feat
+        - fix
     #     - perf
     #     - refactor
   commit_groups:
-    # title_maps:
-    #   feat: Features
-    #   fix: Bug Fixes
+    title_maps:
+      feat: Features
+      fix: Bug Fixes
     #   perf: Performance Improvements
     #   refactor: Code Refactoring
   header:
