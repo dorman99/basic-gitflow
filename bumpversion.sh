@@ -9,6 +9,7 @@ fi
 echo "Generate release tag for: $1...";
 
 git checkout -b release/$version
+npm version $version
 git tag $version
 git-chglog -o CHANGELOG.md
 git add .

@@ -1,0 +1,22 @@
+{
+  "name": "basic-gitflow",
+  "version": "1.0.1",
+  "description": "creation of branches - feature: checkout from development - release/x.x.x: checkout from development - development: from main - hotfix: checkout from main",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorman99/basic-gitflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dorman99/basic-gitflow/issues"
+  },
+  "homepage": "https://github.com/dorman99/basic-gitflow#readme",
+  "devDependencies": {
+    "genversion": "^3.1.1"
+  }
+}
