@@ -1,6 +1,6 @@
 {
   "name": "basic-gitflow",
-  "version": "1.0.1",
+  "version": "3.0.1",
   "description": "creation of branches - feature: checkout from development - release/x.x.x: checkout from development - development: from main - hotfix: checkout from main",
   "main": "index.js",
   "scripts": {
