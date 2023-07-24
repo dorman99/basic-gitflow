@@ -1,4 +1,12 @@
 
+<a name="v3.0.1"></a>
+## [v3.0.1](https://github.com/dorman99/basic-gitflow/compare/3.0.1...v3.0.1) (2023-07-24)
+
+
+<a name="3.0.1"></a>
+## [3.0.1](https://github.com/dorman99/basic-gitflow/compare/3.0.0...3.0.1) (2023-07-24)
+
+
 <a name="3.0.0"></a>
 ## [3.0.0](https://github.com/dorman99/basic-gitflow/compare/2.0.0...3.0.0) (2023-07-17)
 
